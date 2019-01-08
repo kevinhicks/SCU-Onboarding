@@ -1,0 +1,91 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+   body {
+    padding-top: 60px;
+    padding-bottom: 20px;
+    font-family: 'Source Sans Pro', sans-serif; 
+    color: #464646;
+  }
+
+
+  H4 {
+    color: #A9A9A9;
+    font-weight: 300;
+  }
+
+  H6 {
+    color: #A9A9A9;
+    font-weight: 300;
+  }
+
+  input[type="text"]
+  {
+    border-top-width: 0px; border-left-width: 0px; border-right-width: 0px; box-shadow: inset 0 0px 0px rgba(0,0,0,.075); border-radius: 0px;
+  }
+
+  footer {
+    margin-top: 55px;
+  }
+
+  .btn.wide {
+    width: 125%;
+  }
+
+  .btn.padded {
+    margin-bottom: 24px;
+  }
+
+  .has-success input[type="text"] {
+
+    background-color: rgba(33,201,150,.05);
+  }
+
+  .has-error input[type="text"] {
+
+   background-color: rgba(245,54,92,.05);
+}
+
+  .help-block  {
+    color:rgba(245,54,92);
+    Font-weight:400;
+    font-size:11px;
+}
+  div.wide {
+    width: 200%;
+  }
+
+  .progress-bar-scu {
+    background-image: -webkit-linear-gradient(to bottom, #4BE1BC 0, #2DCe89 100%);
+    background-image: -o-linear-gradient(to bottom, #4BE1BC 0, #2DCe89 100%);
+    background-image: linear-gradient(to bottom, #4BE1BC 0, #00AA59 100%)
+  }
+
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .bolder {
+    font-weight: bolder;
+  }
+
+  .sideInfo {}
+
+  .sideInfo p {
+    color: #A9A9A9;
+  }
+
+  .sideInfo span.slideDown {
+    color: #A9A9A9;
+    font-weight: 300;
+    margin-top: 10px;
+  }
+
+.stepTitle { 
+    margin-bottom: 60px;
+}
